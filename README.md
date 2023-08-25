@@ -4,3 +4,5 @@ This is demo number 2
 Shradha khapra
 # Student
 Rishi Tribhuwan
+# Student's brother
+Gorav Tribhuwan

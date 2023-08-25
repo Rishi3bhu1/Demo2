@@ -5,4 +5,4 @@ Shradha khapra
 # Student
 Rishi Tribhuwan
 # Student's brother
-Gorav Tribhuwan
+Gorav Tribhuwan.
